@@ -1,0 +1,25 @@
+h2 {
+    font-family: Helvetica;
+}
+
+#instructions {
+    font-family: Helvetica;
+}
+
+p {
+    font-family: Helvetica;
+}
+
+#growButton {
+    flex: display flex;
+    height: 50px;
+    width: 100px;
+    background-color: darkgreen;
+    border-radius: 5px;
+    font-family: Helvetica;
+    font-size: 1em;
+    color: whitesmoke;
+    box-shadow: ;
+}
+
+;

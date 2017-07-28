@@ -63,3 +63,6 @@ Here's what the pine tree should look like when you specify a height of 7, and u
  ***********
 *************
 ```
+
+
+<!-- Every row has an odd number of characters (or spaces). so the number of spaces on each ascending row are related to the height -->
